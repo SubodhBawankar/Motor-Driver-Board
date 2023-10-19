@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "motor driver")(type "KiCad")(uri "${KIPRJMOD}/components/motor driver")(options "")(descr ""))
+  (lib (name "B2B-PH-K")(type "KiCad")(uri "${KIPRJMOD}/components/B2B-PH-K")(options "")(descr ""))
+  (lib (name "XT60-M")(type "KiCad")(uri "${KIPRJMOD}/components/XT60-M")(options "")(descr ""))
+)
